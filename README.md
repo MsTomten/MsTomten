@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I teach in **the Midwest**.\
 The first tech I owned was an *Atari*.\
